@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Emmanuel Makoye, a motivated Full Stack Web Developer with a passion for creating user-friendly web solutions. I am pursuing a BSc. in Computer Science  at Case Western Reserve University.  Currently developing Sokoni, an e-commerce platform in Tanzania using React and Django. I've also built landing pages for Digital Lab and have strong Java programming skills.
+I'm Emmanuel Makoye, a motivated Full Stack Web Developer with a passion for creating user-friendly web solutions. I am pursuing a BSc. in Computer Science  at Case Western Reserve University.  
+Currently developing Sokoni, an e-commerce platform in Tanzania using React and Django. I've also built landing pages for Digital Lab and have strong Java programming skills.
 
 <!--
 **makoye224/makoye224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
