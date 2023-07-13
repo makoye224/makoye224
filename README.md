@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Emmanuel Makoye, and I am a highly motivated and skilled Full Stack Web Developer passionate about creating innovative and user-friendly web solutions. With a solid educational background and professional experience, I have a dedication to delivering high-quality projects that exceed expectations. Let me tell you a bit more about myself. 
+My name is Emmanuel Makoye, I am a highly motivated and skilled Full Stack Web Developer passionate about creating innovative and user-friendly web solutions. With a solid educational background and professional experience, I have a dedication to delivering high-quality projects that exceed expectations. Let me tell you a bit more about myself. 
 
 I am pursuing a BSc. in Computer Science from Case Western Reserve University with a  concentration in Software Engineering. I also have a Diploma in Leadership and Entrepreneurship from the African Leadership Academy in South Africa. 
 
