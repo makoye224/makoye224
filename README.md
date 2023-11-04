@@ -1,5 +1,12 @@
 ### Hi there 👋
-I'm Emmanuel Makoye, a driven software engineer with a zeal for crafting user-friendly web and app solutions. I'm currently pursuing a BSc. in Computer Science at Case Western Reserve University. I'm actively working on Sokoni, an e-commerce platform in Tanzania using React and Django, and developing an App for Neatify using Django and React Native. I've also crafted landing pages for Digital Lab and possess robust Java programming skills.
+I'm Emmanuel Makoye, a driven software engineer with a zeal for crafting user-friendly web and app solutions. I'm currently pursuing a BSc. in Computer Science at Case Western Reserve University, and my project experience includes:
+
+- Creating a full-stack e-commerce platform for Tanzanian entrepreneurs with React.js and Django.
+- Collaborating with a team of four to develop a comprehensive journaling platform, showcasing teamwork and Git/GitHub expertise.
+- Designing a website for Neatify, a Tanzanian cleaning service, with Next.js, Firebase, and Sanity for efficient customer engagement.
+- Developing a landing page for a digital lab company using React, CSS, HTML, and Amazon S3 for media hosting.
+
+I'm passionate about technology and excited to contribute to innovative projects and tackle new challenges in the field of software engineering.
 
 <!--
 **makoye224/makoye224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
