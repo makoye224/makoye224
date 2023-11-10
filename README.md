@@ -8,6 +8,12 @@ I'm Emmanuel Makoye, a driven software engineer with a zeal for crafting user-fr
 
 I'm passionate about technology and excited to contribute to innovative projects and tackle new challenges in the field of software engineering.
 
+The following are projects I have created: 
+1. https://www.neatifytz.com
+2. https://mindscribe-70op.onrender.com
+3. https://sokoni-django.onrender.com
+   
+
 <!--
 **makoye224/makoye224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
