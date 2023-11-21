@@ -9,9 +9,10 @@ I'm Emmanuel Makoye, a driven software engineer with a zeal for crafting user-fr
 I'm passionate about technology and excited to contribute to innovative projects and tackle new challenges in the field of software engineering.
 
 The following are projects I have created: 
-1. https://www.neatifytz.com
-2. https://mindscribe-70op.onrender.com
-3. https://sokoni-django.onrender.com
+1. https://makoye-portifolio.vercel.app/
+2. https://www.neatifytz.com
+3. https://mindscribe-70op.onrender.com
+4. https://sokoni-django.onrender.com
    
 
 <!--
