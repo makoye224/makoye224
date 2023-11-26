@@ -11,7 +11,7 @@ I'm passionate about technology and excited to contribute to innovative projects
 The following are projects I have created: 
 1. https://makoye-portfolio.vercel.app
 2. https://www.neatifytz.com
-3. https://mindscribe-70op.onrender.com
+3. https://mindscribe23.vercel.app
 4. https://sokoni-django.onrender.com
    
 
