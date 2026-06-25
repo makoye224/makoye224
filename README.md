@@ -1,31 +1,18 @@
 ### Hi there 👋
-I'm Emmanuel Makoye, a driven software engineer with a zeal for crafting user-friendly web and app solutions. I'm currently pursuing a BSc. in Computer Science at Case Western Reserve University, and my project experience includes:
 
-- Creating a full-stack e-commerce platform for Tanzanian entrepreneurs with React.js and Django.
-- Collaborating with a team of four to develop a comprehensive journaling platform, showcasing teamwork and Git/GitHub expertise.
-- Designing a website for Neatify, a Tanzanian cleaning service, with Next.js, Firebase, and Sanity for efficient customer engagement.
-- Developing a landing page for a digital lab company using React, CSS, HTML, and Amazon S3 for media hosting.
+I'm Emmanuel Makoye — Software Engineer at **Amazon** in Seattle and founder of **[Ndotoni](https://www.ndotoni.com)**.
 
-I'm passionate about technology and excited to contribute to innovative projects and tackle new challenges in the field of software engineering.
+#### What I'm building
 
-The following are projects I have created: 
-1. https://makoye-portfolio.vercel.app
-2. https://www.neatifytz.com
-3. https://mindscribe23.vercel.app
-4. https://sokoni-django.onrender.com
-   
+- **[ndotoni.com](https://www.ndotoni.com)** — Tanzania's verified property rental platform. We physically visit, photograph, and list properties to connect tenants with safe housing and landlords with reliable tenants.
+- **[ndotonistays.com](https://www.ndotonistays.com)** — Short-term rental and event space booking in Tanzania. Nightly stays, party venues, photoshoot locations — instant booking, flexible cancellation.
 
-<!--
-**makoye224/makoye224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tech I work with
 
-Here are some ideas to get you started:
+Java · TypeScript · React · Next.js · React Native · Node.js · AWS (AppSync, Lambda, DynamoDB, S3) · GraphQL · PostgreSQL · Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Links
+
+- 🌐 [Portfolio](https://makoye-portfolio.vercel.app)
+- 🏠 [Ndotoni](https://www.ndotoni.com)
+- 🏨 [Ndotoni Stays](https://www.ndotonistays.com)
